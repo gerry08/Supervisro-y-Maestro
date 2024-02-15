@@ -1,0 +1,2 @@
+../Src/SYSCFG.c:9:6:SYSCFG_SetCMP_PD	4	static
+../Src/SYSCFG.c:13:6:SYSCFG_WaitREADY	4	static

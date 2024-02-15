@@ -1,0 +1,2 @@
+../Src/DMA2.c:4:6:DMA_Enable	4	static
+../Src/DMA2.c:9:6:DMA_Init	24	static

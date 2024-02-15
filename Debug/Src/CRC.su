@@ -1,0 +1,4 @@
+../Src/CRC.c:3:6:CRC_Enable	16	static
+../Src/CRC.c:10:6:CRC_Restart	4	static
+../Src/CRC.c:14:6:CRC_Acummulate	16	static
+../Src/CRC.c:18:10:CRC_Read	16	static

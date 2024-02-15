@@ -1,0 +1,11 @@
+../Src/RCC.c:26:6:SystClock_Init	40	static
+../Src/RCC.c:60:9:Calculate_Pot2	24	static
+../Src/RCC.c:69:6:SystCLK_SetPres	40	static
+../Src/RCC.c:169:6:SystCLK_SetHSION	4	static
+../Src/RCC.c:175:6:SystCLK_SetHSEON	4	static
+../Src/RCC.c:180:6:SystCLK_SetPLLON	16	static
+../Src/RCC.c:192:6:SystCLK_CalculatePLLCFGR	48	static
+../Src/RCC.c:265:9:SystCLK_GetPLLMStart	24	static
+../Src/RCC.c:274:10:SystCLK_GetPLLNStart	24	static
+../Src/RCC.c:283:9:SystCLK_CalculatePLL_P_R	24	static
+../Src/RCC.c:305:6:SystCLK_SetPLLPredet	8	static

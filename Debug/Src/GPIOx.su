@@ -1,0 +1,2 @@
+../Src/GPIOx.c:12:6:GPIOx_InitAF	16	static
+../Src/GPIOx.c:25:6:RCC_EnPort	16	static
